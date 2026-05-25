@@ -7,7 +7,7 @@
 - SMILESToMol.py: SMILES to Mol.
 - StructureUnitsDeNovo.py: The configuration file for the AdaptSMILES design process.
 - de_novo_design_test: JSON files contain the molecular structures, while XLSX files provide the PubChem benchmark results.
-- ILs_design: Anion structures (JSON file), cation structures (JSON files), and results of ILs (JSON files).The dataset can be obtained from XXX.com.
+- ILs_design: Anion structures (JSON file), cation structures (JSON files), and results of ILs (JSON files).The dataset can be obtained from (https://zenodo.org/records/20178666).
 
 # Requirements
 - joblib==1.5.3
