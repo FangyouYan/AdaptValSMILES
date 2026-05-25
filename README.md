@@ -20,5 +20,5 @@
 - scipy==1.17.1
 
 # Funding Acknowledgements
-This work was financially supported by the National Natural Science Foundation of China (xxx).
+This work was financially supported by the National Natural Science Foundation of China (22278319, 22478299, 22578332).
 
