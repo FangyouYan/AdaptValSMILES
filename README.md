@@ -1,11 +1,11 @@
-# AdaptUnsatSMILES Enables the Discovery of High-Conductivity Ionic Liquids
+# AdaptValSMILES Enables the Discovery of High-Conductivity Ionic Liquids
 # File Structure
 - models: predict_EC.py and predict_Tm.py predict the electrical conductivity and melting point of ILs, respectively.
 - py_common: The py_common directory contains the utility functions required by the prediction modules.
-- DeNovoDesignTest.py: Validate de novo molecular design using the AdaptSMILES method.
-- ProduceSMILES.py: The key program for implementing the AdaptSMILES approach.
+- DeNovoDesignTest.py: Validate de novo molecular design using the AdaptValSMILES method.
+- ProduceSMILES.py: The key program for implementing the AdaptValSMILES approach.
 - SMILESToMol.py: SMILES to Mol.
-- StructureUnitsDeNovo.py: The configuration file for the AdaptSMILES design process.
+- StructureUnitsDeNovo.py: The configuration file for the AdaptValSMILES design process.
 - de_novo_design_test: JSON files contain the molecular structures, while XLSX files provide the PubChem benchmark results.
 - ILs_design: Anion structures (JSON file), cation structures (JSON files), and results of ILs (JSON files).The dataset can be obtained from (https://zenodo.org/records/20178666).
 
